@@ -1,0 +1,1 @@
+import{_ as s,a,b as e,o as n}from"./index-BHCqwZJN.js";const o={};function r(c,t,i,l,p,u){return n(),a("main",null,t[0]||(t[0]=[e("h1",null,"Activity",-1),e("p",null,"This is te Abaut page",-1)]))}const f=s(o,[["render",r]]);export{f as default};
