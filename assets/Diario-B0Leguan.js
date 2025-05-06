@@ -1,0 +1,1 @@
+import{_ as t,a,b as o,o as s}from"./index-CgZNDQrm.js";const r={class:"about-container"},i={__name:"Diario",setup(c){return(n,e)=>(s(),a("div",r,e[0]||(e[0]=[o("h2",null,"Diario",-1),o("p",null,"Welcome to our application. We are committed to providing the best service possible.",-1)])))}},_=t(i,[["__scopeId","data-v-fb0e8624"]]);export{_ as default};

@@ -1,0 +1,1 @@
+import{_ as t,a as s,b as o,o as a}from"./index-CgZNDQrm.js";const n={class:"about-container"},r={__name:"Config",setup(c){return(i,e)=>(a(),s("div",n,e[0]||(e[0]=[o("h2",null,"Config",-1),o("p",null,"Welcome to our application. We are committed to providing the best service possible.",-1)])))}},_=t(r,[["__scopeId","data-v-539e1bba"]]);export{_ as default};
