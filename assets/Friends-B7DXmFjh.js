@@ -1,0 +1,1 @@
+import{_ as n,a as t,b as s,o as a}from"./index-DHDQ5oiJ.js";const o={};function r(l,e,p,c,i,u){return a(),t("main",null,e[0]||(e[0]=[s("h1",null,"Friends",-1),s("p",null,"This is te Abaut page",-1)]))}const _=n(o,[["render",r]]);export{_ as default};

@@ -1,0 +1,1 @@
+import{_ as t,a as s,b as o,o as a}from"./index-DHDQ5oiJ.js";const r={class:"about-container"},c={__name:"Profile",setup(n){return(i,e)=>(a(),s("div",r,e[0]||(e[0]=[o("h2",null,"PERFIL",-1),o("p",null,"Welcome to our application. We are committed to providing the best service possible.",-1)])))}},p=t(c,[["__scopeId","data-v-05b5e086"]]);export{p as default};

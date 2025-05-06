@@ -1,0 +1,1 @@
+import{_ as s,a as t,b as o,o as a}from"./index-DHDQ5oiJ.js";const c={class:"projects"},r={__name:"Projects",setup(n){return(p,e)=>(a(),t("div",c,e[0]||(e[0]=[o("h2",null,"Proyectos",-1),o("p",null,"Bienvenido a la página de proyectos. Aquí puedes encontrar una lista de proyectos destacados.",-1)])))}},_=s(r,[["__scopeId","data-v-bcd950cf"]]);export{_ as default};
